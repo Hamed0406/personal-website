@@ -29,7 +29,7 @@ function Article(props) {
           <p>{props.extract}</p>
         </div>
         <a href={props.url} target="blank">
-          Read the full article
+          Read the full article tesstststtssss
         </a>
       </div>
     </div>
